@@ -1,0 +1,32 @@
+* REU
+** [#A] Math Programs Account 
+   DEADLINE: <2025-12-29 Mon>
+   - [-] Standard Coversheet
+   - [-] Cover Letter
+   - [x] Curriculum Vitae
+   - [ ] Research Statement
+   - [ ] Teaching Statement
+     - [ ] Contact Nanes
+     - [ ] Contact Sousedik
+     - [ ] Contact Sean
+   - [ ] Publication List
+   [2025-12-29 Mon]
+* Research
+** TODO [#C] Follow up w/ Fadlulah
+   DEADLINE: <2025-12-29 Mon>
+   - [ ] Find Out Research Aims
+   [2025-12-29 Mon]
+** TODO [#B] Math Research Topic
+   DEADLINE: <2025-12-29 Mon>
+   - [ ] Plan w/ John
+   [2025-12-29 Mon]
+* Misc
+** TODO [#C] 301 Prep
+   DEADLINE: <2025-12-30 Tue>
+   - [ ] Finish Ch 2
+   - [ ] HW 3
+   [2025-12-29 Mon]
+** TODO [#A] Reach Out to Insurance
+   DEADLINE: <2025-12-30 Tue>
+   - [ ] Call to Confirm Payments
+   [2025-12-29 Mon]
