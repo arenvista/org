@@ -1,6 +1,6 @@
-* REU                                                                   :school:
-** [#A] Math Programs Account [3/6]
-   DEADLINE: <2026-02-01 Sun> SCHEDULED: <2025-12-30 Tue>
+* REU                                                          :school:
+** PROG [#B] Math Programs Account
+   DEADLINE: <2026-02-01 Sun> CLOSED: [2025-12-30 Tue 00:48] SCHEDULED: <2025-12-30 Tue>
    :PROPERTIES:
    :Effort: 6:00
    :END:
@@ -13,41 +13,52 @@
     CLOSED: [2025-12-29 Mon 18:57]
 *** DONE Curriculum Vitae
     CLOSED: [2025-12-29 Mon 18:57]
-*** TODO Research Statement
-*** TODO Teaching Statement
+*** TODO [#B] Research Statement
+    DEADLINE: <2026-01-01 Thu>
+*** TODO [#B] Teaching Statement
+    DEADLINE: <2026-01-01 Thu>
+*** TODO [#B] Letters of Rec
+    DEADLINE: <2026-01-01 Thu>
     - [ ] 1. Contact Nanes
     - [ ] 2. Contact Sousedik
     - [ ] 3. Contact Sean
     - [ ] 4. Contact Radtke
     - [ ] 5. Contact Freeland
     - [ ] 6. Contact Dixon
-*** TODO Publication List
+*** TODO [#B] Publication List
+    DEADLINE: <2026-01-01 Thu>
     [2025-12-29 Mon]
-** TODO Prep Other REUs
-   DEADLINE: <2025-12-30 Tue>
+** TODO [#C] Prep Other REUs
+   DEADLINE: <2026-01-04 Sun>
    - [ ] Draft List of Reqs for Targets
    [2025-12-29 Mon]
-* [#A] Check NSA Program UMD
+* TODO [#C] Check NSA Program UMD                                       :school:
   DEADLINE: <2025-12-30 Tue>
   - Note taken on [2025-12-29 Mon 23:09] \\
-* Research                                                              :school:
+* Research                                                     :school:
+  CLOSED: [2025-12-30 Tue 00:50]
 ** TODO [#C] Islam
-*** TODO Find Out Research Aims
+*** TODO [#C] Find Out Research Aims
     DEADLINE: <2026-01-05 Mon>
     MEETING: 08:00 PM
 *** TODO Develop Presentation 
     DEADLINE: <2026-01-05 Mon>
-** TODO [#B] Sousedik
-   DEADLINE: <2025-12-29 Mon>
+** PROG [#B] Sousedik
+   DEADLINE: <2025-12-30 Tue> CLOSED: [2025-12-30 Tue 00:48]
    - [-] Plan w/ John
    - [ ] Select Topic
    - [ ] Develop Research Statement
-* 301 Prep                                                              :school:
-** DONE Finish CH2
-   DEADLINE: <2025-12-30 Tue> CLOSED: [2025-12-29 Mon 19:29]
+* 301 Prep                                                     :school:
+  CLOSED: [2025-12-30 Tue 00:50]
 ** TODO Finish HW2
 ** TODO Finish HW3
 * Misc
 ** TODO [#A] Reach Out to Insurance                                  :important:
    DEADLINE: <2025-12-30 Tue>
    - [ ] Call to Confirm Payments
+* TODO Plan for OS                                                      :school:
+  SCHEDULED: <2025-12-31 Wed>
+  [2025-12-30 Tue]
+* TODO [#A] Complete FASFA & MDCAPS                                  :important:
+  DEADLINE: <2025-12-30 Tue>
+  [2025-12-29 Mon]
