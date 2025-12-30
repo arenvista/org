@@ -1,31 +1,39 @@
 * REU
-** [#A] Math Programs Account 
-   DEADLINE: <2025-12-29 Mon>
-   - [-] Standard Coversheet
-   - [-] Cover Letter
-   - [x] Curriculum Vitae
-   - [ ] Research Statement
-   - [ ] Teaching Statement
-     - [ ] Contact Nanes
-     - [ ] Contact Sousedik
-     - [ ] Contact Sean
-   - [ ] Publication List
+** Math Programs Account [3/6]
+*** DONE Standard Coversheet
+    CLOSED: [2025-12-29 Mon 18:57]
+*** DONE Cover Letter
+    CLOSED: [2025-12-29 Mon 18:57]
+*** DONE Curriculum Vitae
+    CLOSED: [2025-12-29 Mon 18:57]
+*** TODO Research Statement
+*** TODO Teaching Statement
+    - [ ] 1. Contact Nanes
+    - [ ] 2. Contact Sousedik
+    - [ ] 3. Contact Sean
+    - [ ] 4. Contact Radtke
+    - [ ] 5. Contact Freeland
+    - [ ] 6. Contact Dixon
+*** TODO Publication List
+    [2025-12-29 Mon]
+** TODO Prep Other REUs
+   - [ ] Draft List of Reqs for Targets
    [2025-12-29 Mon]
 * Research
-** TODO [#C] Follow up w/ Fadlulah
-   DEADLINE: <2025-12-29 Mon>
-   - [ ] Find Out Research Aims
-   [2025-12-29 Mon]
-** TODO [#B] Math Research Topic
-   DEADLINE: <2025-12-29 Mon>
-   - [ ] Plan w/ John
-   [2025-12-29 Mon]
-* Misc
-** TODO [#C] 301 Prep
+** TODO [#C] Islam
    DEADLINE: <2025-12-30 Tue>
-   - [ ] Finish Ch 2
-   - [ ] HW 3
-   [2025-12-29 Mon]
+   - [ ] Find Out Research Aims
+** TODO [#B] Sousedik
+   DEADLINE: <2025-12-29 Mon>
+   - [o] Plan w/ John
+   - [ ] Select Topic
+   - [ ] Develop Research Statement
+* 301 Prep
+** DONE Finish CH2
+   DEADLINE: <2025-12-30 Tue> CLOSED: [2025-12-29 Mon 19:29]
+** TODO Finish HW2
+** TODO Finish HW3
+* Misc
 ** TODO [#A] Reach Out to Insurance
    DEADLINE: <2025-12-30 Tue>
    - [ ] Call to Confirm Payments

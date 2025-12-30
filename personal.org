@@ -1,10 +1,10 @@
 * Misc
-** TODO [#C] New Years Follow Up 
-   DEADLINE: <2025-12-29 Mon>
-   - [ ] Contact Sean
-   - [ ] Contact Tally
-   - [ ] Contact David
-   - [ ] Contact James
+** DONE [#C] New Years Follow Up 
+   DEADLINE: <2025-12-29 Mon> CLOSED: [2025-12-29 Mon 19:36]
+   - [x] Contact Sean
+   - [x] Contact Tally
+   - [x] Contact David
+   - [x] Contact James
 ** TODO [#C] Plan Game Night
    DEADLINE: <2025-12-30 Tue>
    - [ ] Set Location
@@ -16,4 +16,3 @@
    - [ ] Finalize Date Plans
    - [ ] Reach Out
    [2025-12-29 Mon]
- 
