@@ -1,5 +1,12 @@
-* REU
-** Math Programs Account [3/6]
+* REU                                                                   :school:
+** [#A] Math Programs Account [3/6]
+   DEADLINE: <2026-02-01 Sun> SCHEDULED: <2025-12-30 Tue>
+   :PROPERTIES:
+   :Effort: 6:00
+   :END:
+   :LOGBOOK:
+   CLOCK: [2025-12-29 Mon 23:07]--[2025-12-29 Mon 23:08] => 0:01
+   :END:
 *** DONE Standard Coversheet
     CLOSED: [2025-12-29 Mon 18:57]
 *** DONE Cover Letter
@@ -17,24 +24,30 @@
 *** TODO Publication List
     [2025-12-29 Mon]
 ** TODO Prep Other REUs
+   DEADLINE: <2025-12-30 Tue>
    - [ ] Draft List of Reqs for Targets
    [2025-12-29 Mon]
-* Research
+* [#A] Check NSA Program UMD
+  DEADLINE: <2025-12-30 Tue>
+  - Note taken on [2025-12-29 Mon 23:09] \\
+* Research                                                              :school:
 ** TODO [#C] Islam
-   DEADLINE: <2025-12-30 Tue>
-   - [ ] Find Out Research Aims
+*** TODO Find Out Research Aims
+    DEADLINE: <2026-01-05 Mon>
+    MEETING: 08:00 PM
+*** TODO Develop Presentation 
+    DEADLINE: <2026-01-05 Mon>
 ** TODO [#B] Sousedik
    DEADLINE: <2025-12-29 Mon>
-   - [o] Plan w/ John
+   - [-] Plan w/ John
    - [ ] Select Topic
    - [ ] Develop Research Statement
-* 301 Prep
+* 301 Prep                                                              :school:
 ** DONE Finish CH2
    DEADLINE: <2025-12-30 Tue> CLOSED: [2025-12-29 Mon 19:29]
 ** TODO Finish HW2
 ** TODO Finish HW3
 * Misc
-** TODO [#A] Reach Out to Insurance
+** TODO [#A] Reach Out to Insurance                                  :important:
    DEADLINE: <2025-12-30 Tue>
    - [ ] Call to Confirm Payments
-   [2025-12-29 Mon]
