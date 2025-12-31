@@ -1,6 +1,6 @@
 * REU                                                          :school:
 ** PROG [#B] Math Programs Account
-   DEADLINE: <2026-02-01 Sun> CLOSED: [2025-12-30 Tue 00:48] SCHEDULED: <2025-12-30 Tue>
+   DEADLINE: <2026-02-01 Sun> CLOSED: [2025-12-30 Tue 00:48]
    :PROPERTIES:
    :Effort: 6:00
    :END:
@@ -32,19 +32,19 @@
    DEADLINE: <2026-01-04 Sun>
    - [ ] Draft List of Reqs for Targets
    [2025-12-29 Mon]
-* TODO [#C] Check NSA Program UMD                                       :school:
-  DEADLINE: <2025-12-30 Tue>
+* TODO [#B] Check NSA Program UMD                                       :school:
+  DEADLINE: <2025-12-31 Wed>
   - Note taken on [2025-12-29 Mon 23:09] \\
 * Research                                                     :school:
   CLOSED: [2025-12-30 Tue 00:50]
 ** TODO [#C] Islam
-*** TODO [#C] Find Out Research Aims
-    DEADLINE: <2026-01-05 Mon>
+*** WAIT [#C] Find Out Research Aims
+    DEADLINE: <2026-01-05 Mon> CLOSED: [2025-12-30 Tue 16:49]
     MEETING: 08:00 PM
 *** TODO Develop Presentation 
     DEADLINE: <2026-01-05 Mon>
 ** PROG [#B] Sousedik
-   DEADLINE: <2025-12-30 Tue> CLOSED: [2025-12-30 Tue 00:48]
+   DEADLINE: <2026-01-02 Fri>
    - [-] Plan w/ John
    - [ ] Select Topic
    - [ ] Develop Research Statement
@@ -53,12 +53,17 @@
 ** TODO Finish HW2
 ** TODO Finish HW3
 * Misc
-** TODO [#A] Reach Out to Insurance                                  :important:
-   DEADLINE: <2025-12-30 Tue>
-   - [ ] Call to Confirm Payments
-* TODO Plan for OS                                                      :school:
-  SCHEDULED: <2025-12-31 Wed>
+* TODO [#C] Plan for OS                                                      :school:
   [2025-12-30 Tue]
 * TODO [#A] Complete FASFA & MDCAPS                                  :important:
-  DEADLINE: <2025-12-30 Tue>
+  DEADLINE: <2025-12-31 Wed>
   [2025-12-29 Mon]
+* TODO [#A] Cancel Appointment w/ Zhao
+  DEADLINE: <2025-12-31 Wed>
+  [2025-12-30 Tue]
+* TODO [#A] Follow Up on Missing Payments                        :important:pay:
+  DEADLINE: <2025-12-31 Wed>
+  [2025-12-30 Tue]
+  - [ ] Email Maggie
+  - [ ] Send Follow Up
+

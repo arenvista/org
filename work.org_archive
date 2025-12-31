@@ -7,3 +7,17 @@
   :ARCHIVE_CATEGORY: work
   :ARCHIVE_TODO: DONE
   :END:
+* DONE [#A] Reach Out to Insurance                                  :important:
+  DEADLINE: <2025-12-30 Tue> CLOSED: [2025-12-30 Tue 17:46]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2025-12-30 Tue 19:08
+  :ARCHIVE_FILE: /home/sybil/orgfiles/work.org
+  :ARCHIVE_OLPATH: Misc
+  :ARCHIVE_CATEGORY: work
+  :ARCHIVE_TODO: DONE
+  :END:
+  - [x] Call to Confirm Payments
+    - Note => Billing is in 30 days 
+      - 350 Deductable
+      - 20% Co-insurance
+      - 855 Curr Bal => 350 + ((855-350)* 0.2) = total balance = $451

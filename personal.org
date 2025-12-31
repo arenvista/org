@@ -1,15 +1,19 @@
 * Misc
-** TODO [#C] Plan Game Night                                           :friends:
-   DEADLINE: <2025-12-30 Tue>
-   - [ ] Set Location
+** WAIT [#C] Plan Game Night                                           :friends:
+   DEADLINE: <2026-01-09 Fri>
+   - [-] Establish Date
+        - [x] Set up [[https://www.when2meet.com/][when2meet]]
+          - [x] Send [[https://www.when2meet.com/?34098766-mUfFv][Link]] 
+        - [ ] Coordinate Responses
+   - [ ] Set Location => Probably on campus (confirm?)
    - [ ] Find People
+        - [ ] Draft Invite List
    - [ ] Set Invite Link
+        - [ ] Make GC
+        - [ ] Make partiful
    [2025-12-29 Mon]
-** TODO [#C] Plan Stuff w/ Emily                                       :friends:
-   DEADLINE: <2025-12-30 Tue>
-   - [ ] Finalize Date Plans
+** WAIT [#C] Plan Stuff w/ Emily                                       :friends:
+   DEADLINE: <2026-01-01 Thu>
+   - [x] Finalize Date Plans
    - [ ] Reach Out
    [2025-12-29 Mon]
-* TODO Hang Out w/ David 17:00                                         :friends:
-  DEADLINE: <2025-12-30 Tue>
-  [2025-12-29 Mon]
