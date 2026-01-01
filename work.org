@@ -13,20 +13,20 @@
     CLOSED: [2025-12-29 Mon 18:57]
 *** DONE Curriculum Vitae
     CLOSED: [2025-12-29 Mon 18:57]
-*** TODO [#B] Research Statement
-    DEADLINE: <2026-01-01 Thu>
+*** PROG [#B] Research Statement
+    DEADLINE: <2026-01-01 Thu> CLOSED: [2025-12-31 Wed 15:10]
 *** TODO [#B] Teaching Statement
     DEADLINE: <2026-01-01 Thu>
-*** TODO [#B] Letters of Rec
-    DEADLINE: <2026-01-01 Thu>
+*** PROG [#B] Letters of Rec
+    DEADLINE: <2026-01-01 Thu> CLOSED: [2025-12-31 Wed 15:10]
     - [ ] 1. Contact Nanes
     - [ ] 2. Contact Sousedik
     - [ ] 3. Contact Sean
     - [ ] 4. Contact Radtke
     - [ ] 5. Contact Freeland
     - [ ] 6. Contact Dixon
-*** TODO [#B] Publication List
-    DEADLINE: <2026-01-01 Thu>
+*** PROG [#B] Publication List
+    DEADLINE: <2026-01-01 Thu> CLOSED: [2025-12-31 Wed 17:21]
     [2025-12-29 Mon]
 ** TODO [#C] Prep Other REUs
    DEADLINE: <2026-01-04 Sun>
@@ -41,7 +41,7 @@
 *** WAIT [#C] Find Out Research Aims
     DEADLINE: <2026-01-05 Mon> CLOSED: [2025-12-30 Tue 16:49]
     MEETING: 08:00 PM
-*** TODO Develop Presentation 
+*** TODO [#C] Develop Presentation 
     DEADLINE: <2026-01-05 Mon>
 ** PROG [#B] Sousedik
    DEADLINE: <2026-01-02 Fri>
@@ -58,12 +58,10 @@
 * TODO [#A] Complete FASFA & MDCAPS                                  :important:
   DEADLINE: <2025-12-31 Wed>
   [2025-12-29 Mon]
-* TODO [#A] Cancel Appointment w/ Zhao
-  DEADLINE: <2025-12-31 Wed>
+* DONE [#A] Cancel Appointment w/ Zhao
+  DEADLINE: <2025-12-31 Wed> CLOSED: [2025-12-31 Wed 15:05]
   [2025-12-30 Tue]
 * TODO [#A] Follow Up on Missing Payments                        :important:pay:
   DEADLINE: <2025-12-31 Wed>
-  [2025-12-30 Tue]
   - [ ] Email Maggie
   - [ ] Send Follow Up
-

@@ -1,6 +1,7 @@
 * Misc
-** WAIT [#C] Plan Game Night                                           :friends:
+** WAIT [#C] Plan Game Night :friends:
    DEADLINE: <2026-01-09 Fri>
+
    - [-] Establish Date
         - [x] Set up [[https://www.when2meet.com/][when2meet]]
           - [x] Send [[https://www.when2meet.com/?34098766-mUfFv][Link]] 
@@ -12,8 +13,7 @@
         - [ ] Make GC
         - [ ] Make partiful
    [2025-12-29 Mon]
-** WAIT [#C] Plan Stuff w/ Emily                                       :friends:
-   DEADLINE: <2026-01-01 Thu>
-   - [x] Finalize Date Plans
-   - [ ] Reach Out
-   [2025-12-29 Mon]
+
+* TODO [#B] Find New Psychiatrist
+  DEADLINE: <2026-01-10 Sat> SCHEDULED: <2025-12-31 Wed>
+
