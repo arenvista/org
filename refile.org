@@ -1,12 +1,232 @@
-* TODO [#C] Plan Something w/ Sean                                          :friends:
-  DEADLINE: <2026-01-02 Fri>
-  [2025-12-30 Tue]
-* TODO [#C] 301 CH 3
-  SCHEDULED: <2026-01-01 Thu>
-  [2025-12-31 Wed]
-* TODO [#B] Check Billing
+* DONE [#C] Plan Something w/ Sean                                     :friends:
   DEADLINE: <2026-01-04 Sun>
+  [2025-12-30 Tue]
+* DONE [#C] 301 CH 3
+  CLOSED: [2026-01-17 Sat 13:10]
+  id
+  DEADLINE: <2026-01-04 Sun> CLOSED: [2026-01-02 Fri 18:08]
   [2025-12-31 Wed]
-* TODO [#A] Respond to Em
-  DEADLINE: <2026-01-01 Thu>
+* DONE [#B] Check Billing
+  DEADLINE: <2026-01-04 Sun> CLOSED: [2026-01-02 Fri 11:15]
   [2025-12-31 Wed]
+* DONE [#A] Breakdown Insurance Bill                                 :insurance:
+  DEADLINE: <2026-01-04 Sun> CLOSED: [2026-01-05 Mon 14:55]
+  [2026-01-02 Fri]
+* WAIT [#A] Game Night
+  SCHEDULED: <2026-01-17 Sat>
+  - [ ] 1.  Aren 
+  - [ ] 2.  David
+  - [ ] 3.  Ren
+  - [ ] 4.  James
+  - [ ] 5.  John?
+  - [ ] 6.  Dom (Ask on Wed)
+  - [ ] 7.  Alex
+  - [ ] 8.  Emily
+  - [ ] 9.  Theo
+  - [ ] 10. Kat
+* DONE [#A] Date Potetially
+  SCHEDULED: <2026-01-09 Fri> CLOSED: [2026-01-09 Fri 11:30]
+  Sunday 4PM Walters
+  [2026-01-02 Fri]
+* DONE [#A] Haircut
+  SCHEDULED: <2026-01-03 Sat> CLOSED: [2026-01-03 Sat 14:45]
+  [2026-01-02 Fri]
+* TODO First Day of Semester
+  SCHEDULED: <2026-01-26 Mon>
+  [2026-01-02 Fri]
+* DONE [#A] Insurance: Meet Lana
+  DEADLINE: <2026-01-07 Wed 10:00> CLOSED: [2026-01-07 Wed 10:58]
+  - [ ] Compare Prices w/ Headway and Lifestance 
+  - [ ] Go Over EOB
+  - [ ] Cover medical billing
+** DONE [#A] Call Lana                                          :insurance:WORK:
+   DEADLINE: <2026-01-07 Wed 08:45> CLOSED: [2026-01-07 Wed 10:58]
+* DONE [#B] Meet w/ Dominic
+  SCHEDULED: <2026-01-07 Wed 11:00> CLOSED: [2026-01-07 Wed 16:42]
+  [2026-01-05 Mon]
+* WAIT [#A] Pick Up Car
+  SCHEDULED: <2026-01-25 Sun>
+  [2026-01-05 Mon]
+* DONE [#A] Date Night
+  DEADLINE: <2026-01-11 Sun> CLOSED: [2026-01-12 Mon 14:09] SCHEDULED: <2026-01-11 Sun 16:00>
+  [2026-01-05 Mon]
+* DONE [#A] Date Planning
+  DEADLINE: <2026-01-10 Sat> CLOSED: [2026-01-12 Mon 14:09]
+  - [ ] Where to meet
+  - [ ] Where to park
+  - [ ] When to meet
+  [2026-01-05 Mon]
+* DONE [#B] Follow up w/ Nanes
+  DEADLINE: <2026-01-05 Mon> CLOSED: [2026-01-05 Mon 17:11] SCHEDULED: <2026-01-05 Mon 16:30>
+  [2026-01-05 Mon]
+* DONE [#A] Finish SUMRY Application
+  SCHEDULED: <2026-01-09 Fri> CLOSED: [2026-01-13 Tue 17:39]
+  - [ ] Add Updated CV
+  - Refrences:
+    - Sean 
+    - Radtke
+    - ???
+* DONE [#B] Math 301 HW 3
+  SCHEDULED: <2026-01-10 Sat 18:00> CLOSED: [2026-01-13 Tue 15:44]
+  - [x] Q1
+  - [-] Q2; Review Question
+  - [-] Q3l Review Question
+  - [x] Q4
+  - [-] Q5
+  - [ ] Q6
+  [2026-01-05 Mon]
+* DONE [#B] Check 301 Sol's 
+  DEADLINE: <2026-01-06 Tue 16:00> CLOSED: [2026-01-07 Wed 10:58]
+  - [ ] HW 1
+  - [ ] HW 2
+* DONE Hang w/ James
+  SCHEDULED: <2026-01-05 Mon 19:00> CLOSED: [2026-01-06 Tue 15:40]
+  [2026-01-05 Mon]
+* DONE [#C] Follow up w/ Fadlulah
+  DEADLINE: <2026-01-06 Tue 10:00> CLOSED: [2026-01-06 Tue 21:10]
+  [2026-01-05 Mon]
+* DONE Sleep
+  SCHEDULED: <2026-01-05 Mon 23:55> CLOSED: [2026-01-06 Tue 15:40]
+  [2026-01-05 Mon]
+* DONE [#B] Finalize Sous Research Topic
+  DEADLINE: <2026-01-06 Tue> CLOSED: [2026-01-06 Tue 15:40] SCHEDULED: <2026-01-06 Tue 11:00>
+  [2026-01-05 Mon]
+* DONE [#A] Dinner w/ GMa
+  DEADLINE: <2026-01-10 Sat> CLOSED: [2026-01-12 Mon 14:09]
+  [2026-01-05 Mon]
+* DONE Hangout w/ John
+  SCHEDULED: <2026-01-05 Mon 17:45> CLOSED: [2026-01-06 Tue 15:40]
+  [2026-01-05 Mon]
+* DONE [#A] Insurance Follow Up
+  SCHEDULED: <2026-01-07 Wed 14:00>
+  - [x] Find if UMBC can prescribe via medical provider => no
+  - [x] Call Lana around 2:00PM
+  [2026-01-07 Wed]
+* DONE [#A] Psych Shopping
+  DEADLINE: <2026-01-09 Fri 16:30> CLOSED: [2026-01-13 Tue 15:43]
+  - [ ] Contact [[https://www.psychologytoday.com/us/psychiatrists/ashley-vickery-westminster-md/1039742][Ashley Vickery]]
+    - Phone Numbers:
+      - [410-618-4071](PsychToday)
+      - [410-212-4997](Lana)
+    - Details
+        - Collaborative Health and Wellness
+        - 910 Washington Road
+        - Westminster, MD 21157 map
+        - 1009 Frederick Road
+        - Catonsville, MD 21228 map
+  - [x] Contact [[https://www.psychologytoday.com/us/psychiatrists/aastha-krebs-washington-dc/1241521][Aastha Krebs]]
+    - Phone Numbers:
+      - [202-972-6381](PsychToday)
+    - Details:
+        - 600 Massachusetts Avenue Northwest
+        - Washington, DC 20001 map
+        - 201 International Circle
+        - Cockeysville, MD 21030 map
+* DONE [#B] Follow Up on Insurance Billing
+  SCHEDULED: <2026-01-10 Sat> CLOSED: [2026-01-13 Tue 15:44]
+  - [ ] Ask for billing deparment to talk to provider: 
+    - [ ] Only asked for refill; did not ask for therapy
+    - [ ] Why are you billing for therapy; ask for why?
+  - [ ] Check if 90 day follow is possible; up to the clinic
+  - [ ] Ask if we can just do shorter visit; explain no therapy, just ask for fill; --why are you billing me for therapy if im not asking for therapy; ask for code 99212 [brief visit] or 99213; 99214
+  [2026-01-07 Wed]
+* DONE [#B] Message Freeland About Research Proposal
+  DEADLINE: <2026-01-08 Thu 14:00> CLOSED: [2026-01-08 Thu 17:06]
+  [2026-01-07 Wed]
+* DONE [#B] Coordinate Car Pickup
+  SCHEDULED: <2026-01-07 Wed> CLOSED: [2026-01-13 Tue 15:44]
+  Waiting on response from Ryan
+  [2026-01-07 Wed]
+* DONE [#B] Respond to Nanes
+  SCHEDULED: <2026-01-08 Thu 13:15> CLOSED: [2026-01-08 Thu 14:21]
+  [2026-01-07 Wed]
+* DONE Head Home
+  SCHEDULED: <2026-01-07 Wed 17:15> CLOSED: [2026-01-08 Thu 12:46]
+  [2026-01-07 Wed]
+* DONE Configure Desktop
+  SCHEDULED: <2026-01-08 Thu 11:30> CLOSED: [2026-01-08 Thu 13:34]
+  :PROPERTIES:
+  :Effort: 1:00
+  :END:
+  [2026-01-08 Thu]
+* DONE [#A] Respond to Freeland
+  DEADLINE: <2026-01-09 Fri 12:45> CLOSED: [2026-01-09 Fri 12:09]
+  [2026-01-08 Thu]
+* DONE [#A] Message Sous
+  SCHEDULED: <2026-01-08 Thu 18:00> CLOSED: [2026-01-08 Thu 17:48]
+  [2026-01-08 Thu]
+* DONE [#A] Respond To Radtke
+  DEADLINE: <2026-01-09 Fri 12:45> CLOSED: [2026-01-09 Fri 12:35]
+  [2026-01-09 Fri]
+* TODO [#A] Respond to Sean
+  [2026-01-09 Fri]
+* DONE Drive To Walters
+  SCHEDULED: <2026-01-11 Sun 15:00> CLOSED: [2026-01-13 Tue 15:44]
+  [2026-01-09 Fri]
+* DONE [#A] Respond to Sean
+  DEADLINE: <2026-01-09 Fri 12:45> CLOSED: [2026-01-09 Fri 12:09]
+  [2026-01-09 Fri]
+* DONE 301: Cover Sec 2.5 - Intervals
+  SCHEDULED: <2026-01-10 Sat> CLOSED: [2026-01-13 Tue 15:44]
+  [2026-01-09 Fri]
+* TODO [#A] Verify Identity for Medicaid
+  SCHEDULED: <2026-01-19 Mon>
+  [2026-01-09 Fri]
+* DONE [#B] Message Em for Mob Town
+  SCHEDULED: <2026-01-13 Tue> CLOSED: [2026-01-17 Sat 13:05]
+  [2026-01-12 Mon]
+* DONE Meet John on Campus
+  SCHEDULED: <2026-01-14 Wed> CLOSED: [2026-01-17 Sat 13:06]
+  [2026-01-13 Tue]
+* DONE [#A] Pay Insurance
+  SCHEDULED: <2026-01-13 Tue 11:30>
+  [2026-01-13 Tue]
+* TODO Poke Freeland / Sean
+  SCHEDULED: <2026-01-19 Mon>
+  - [ ] Msg Freeland
+  - [ ] Msg Sean
+  [2026-01-13 Tue]
+* DONE [#A] Pick Up KC
+  SCHEDULED: <2026-01-13 Tue 19:30> CLOSED: [2026-01-17 Sat 13:05]
+  [2026-01-13 Tue]
+* DONE [#B] 301 E1
+  SCHEDULED: <2026-01-13 Tue 14:00> CLOSED: [2026-01-13 Tue 15:48]
+  [2026-01-13 Tue]
+* DONE [#A] Message Osman
+  SCHEDULED: <2026-01-13 Tue 18:00> CLOSED: [2026-01-13 Tue 18:35]
+  [2026-01-13 Tue]
+* WAIT Verify Prescription Came In
+  SCHEDULED: <2026-01-21 Wed>
+  [2026-01-13 Tue]
+* DONE OS Proj 1
+  SCHEDULED: <2026-01-12 Mon> CLOSED: [2026-01-13 Tue 15:54]
+  [2026-01-13 Tue]
+* DONE [#A] Mesasge All People Listed For SUMRY
+  SCHEDULED: <2026-01-13 Tue 18:36>
+  [2026-01-13 Tue]
+  - [x] Sean
+  - [x] Doc
+  - [x] Sousedik
+  - [x] Osman
+* DONE Make Emily a Playlist
+  SCHEDULED: <2026-01-13 Tue 22:00> CLOSED: [2026-01-17 Sat 13:05]
+  [2026-01-13 Tue]
+* TODO Create Package for Yale Bio/Phys REU
+  SCHEDULED: <2026-01-18 Sun>
+  [2026-01-17 Sat]
+* TODO Make Food
+  DEADLINE: <2026-01-17 Sat 16:30>
+  [2026-01-17 Sat]
+* TODO Drive to Campus
+  SCHEDULED: <2026-01-17 Sat 17:30>
+  [2026-01-17 Sat]
+* TODO Review 301
+  SCHEDULED: <2026-01-19 Mon>
+  - [ ] epsilon-neighborhoods 
+  - [ ] Irrationality of √2
+  - [ ] Denumerability 
+  - [ ] Archimedes Principle
+  [2026-01-17 Sat]
+* TODO Plan Scheldule
+  SCHEDULED: <2026-01-17 Sat 13:11>
+  [2026-01-17 Sat]
